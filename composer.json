@@ -1,5 +1,5 @@
 {
-    "name": "iivannov/branchio",
+    "name": "e-yakubov/branchio",
     "description": "Branch Metrics (Branch.io) HTTP API client",
     "keywords": ["php", "branch metrics", "branch.io", "HTTP api", "http", "client", "branch", "branchio", "branch io"],
     "license": "MIT",
